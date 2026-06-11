@@ -42,3 +42,5 @@ dyb.local
 ![Groups](../screenshots/04-users-groups/group-membership-soporte.png)
 ![Groups](../screenshots/04-users-groups/ou-structure.png)
 ![Groups](../screenshots/04-users-groups/security-groups-created.png)
+![Groups](../screenshots/04-users-groups/group-membership-example.png)
+![Groups](../screenshots/04-users-groups/group-membership-example-rh.png)
