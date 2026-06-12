@@ -39,3 +39,9 @@ The purpose of this lab is to practice core IT Support and System Administration
 - File sharing and NTFS permissions
 - Domain troubleshooting
 - Technical documentation
+
+## Final Result
+
+This lab successfully demonstrates the deployment of a basic Active Directory environment using Windows Server and a Windows client machine.
+
+The environment includes centralized user management, domain authentication, Group Policy enforcement, and department-based shared folder permissions.
